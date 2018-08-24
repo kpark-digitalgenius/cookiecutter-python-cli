@@ -1,3 +1,7 @@
+## DG CLI
+
+Based on the cookiecutter template by @nvie
+
 ## What is this?
 
 A default template for a new CLI project, written in Python, to be used
